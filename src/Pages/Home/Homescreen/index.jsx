@@ -6,6 +6,9 @@ import OurServices from "../OurServices";
 import Reviews from "../Reviews";
 import Topbar from "../Topbar";
 import Navbar from "../Navbar";
+import MapSection from "../MapSection";
+import Faq from "../Faq";
+import CleaningServiceCTA from "../CleaningServiceCTA";
 
 export default function Home() {
   return (
@@ -14,10 +17,13 @@ export default function Home() {
       <Navbar />
       <HeroSection />
       <OurServices/>
+      <CleaningServiceCTA/>
       <AboutUs />
       <Reviews/>
+      <Faq/>
       <ContactUs />
-      <Footer />
+      <MapSection/>
+       <Footer />
     </>
   );
 }
