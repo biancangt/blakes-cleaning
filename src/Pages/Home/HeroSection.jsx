@@ -3,7 +3,7 @@ import React from "react";
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
-      {/* Vídeo Desktop */}
+      {/* Vídeo Desktop (sem som) */}
       <video
         autoPlay
         loop
@@ -15,7 +15,7 @@ export default function HeroSection() {
         Your browser does not support the video tag.
       </video>
 
-      {/* Vídeo Mobile */}
+      {/* Vídeo Mobile (sem som) */}
       <video
         autoPlay
         loop
