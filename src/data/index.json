@@ -1,0 +1,149 @@
+{
+  "services": [
+    {
+      "src": "./img/servicestandard.png",
+      "title": "Standard Cleaning"
+    },
+    {
+      "src": "./img/servicedeep.png",
+      "title": "Deep Cleaning"
+    },
+    {
+      "src": "./img/servicemoving.png",
+      "title": "Move In/Move Out"
+    },
+    {
+      "src": "./img/serviceoffice.png",
+      "title": "Offices Cleaning"
+    },
+    {
+      "src": "./img/serviceplan.png",
+      "title": "Customized Cleaning Plans"
+    }
+  ],
+
+  
+    "reviews": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/icon1.png",
+        "description": "She did a wonderful job. Everything looks neat and smells fresh.",
+        "author_name": "Julia Mendes",
+        "author_designation": ""
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/icon2.png",
+        "description": "Very professional and fast. Highly recommended!",
+        "author_name": "David Thompson",
+        "author_designation": ""
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/icon3.png",
+        "description": "My apartment has never looked better. Thank you!",
+        "author_name": "Maria Fernanda",
+        "author_designation": ""
+      },
+      {
+        "id": "4",
+        "count": "5",
+        "src": "./img/icon4.png",
+        "description": "She was on time, super friendly, and did a great job. My place feels so clean!",
+        "author_name": "Ana Beatriz",
+        "author_designation": ""
+      },
+      {
+        "id": "5",
+        "count": "5",
+        "src": "./img/icon5.png",
+        "description": "Really impressed. She worked fast and everything looked great after. Will book again.",
+        "author_name": "Michael Johnson",
+        "author_designation": ""
+      },
+      {
+        "id": "6",
+        "count": "5",
+        "src": "./img/icon6.png",
+        "description": "I wasn’t sure what to expect but honestly so happy with the result. Thank you!",
+        "author_name": "Rosa Sánchez",
+        "author_designation": ""
+      },
+      {
+        "id": "7",
+        "count": "5",
+        "src": "./img/icon7.png",
+        "description": "Everything was cleaned perfectly and with care.",
+        "author_name": "Lucas Silva",
+        "author_designation": ""
+      },
+      {
+        "id": "8",
+        "count": "5",
+        "src": "./img/icon8.png",
+        "description": "Punctual and thorough. I’ll definitely book again.",
+        "author_name": "Emily Green",
+        "author_designation": ""
+      },
+      {
+        "id": "9",
+        "count": "5",
+        "src": "./img/icon9.png",
+        "description": "Very detailed and respectful. Great experience overall.",
+        "author_name": "Gabriel Rocha",
+        "author_designation": ""
+      },
+      {
+        "id": "10",
+        "count": "5",
+        "src": "./img/icon10.png",
+        "description": "She made my home sparkle. Highly recommended!",
+        "author_name": "Jessica Martinez",
+        "author_designation": ""
+      },
+      {
+        "id": "11",
+        "count": "5",
+        "src": "./img/icon11.png",
+        "description": "Quick and efficient. Will hire again for sure.",
+        "author_name": "Daniel Walker",
+        "author_designation": ""
+      },
+      {
+        "id": "12",
+        "count": "5",
+        "src": "./img/icon12.png",
+        "description": "Great attention to detail. Very satisfied!",
+        "author_name": "Camila Torres",
+        "author_designation": ""
+      },
+      {
+        "id": "13",
+        "count": "5",
+        "src": "./img/icon13.png",
+        "description": "She’s amazing! Loved how fresh everything felt.",
+        "author_name": "Megan Lee",
+        "author_designation": ""
+      },
+      {
+        "id": "14",
+        "count": "5",
+        "src": "./img/icon14.png",
+        "description": "Cleaned every corner. Very thorough job.",
+        "author_name": "Thiago Lima",
+        "author_designation": ""
+      },
+      {
+        "id": "15",
+        "count": "5",
+        "src": "./img/icon15.png",
+        "description": "Really nice work. The place looks awesome!",
+        "author_name": "Natalie Cooper",
+        "author_designation": ""
+      }
+    ]
+}
+    
