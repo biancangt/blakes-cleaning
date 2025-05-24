@@ -23,7 +23,7 @@ export default function ReviewsCarousel() {
           {extendedReviews.map((item, index) => (
             <div key={index} className="review-card">
               <div className="review-rating">
-                {Array.from({ length: 7 }).map((_, i) => (
+                {Array.from({ length: 5 }).map((_, i) => (
                   <svg
                     key={i}
                     xmlns="http://www.w3.org/2000/svg"
