@@ -548,7 +548,7 @@ h2 {
   box-sizing: border-box;
 }
 
-.scrolling {
+.reviews-slider {
   animation: scrollReviews 70s linear infinite;
 }
 
@@ -689,12 +689,13 @@ h2 {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .review-card {
-    flex: 0 0 90vw;
-    height: auto;
+    flex: 0 0 250px;
+    height: 250px;
   }
 }
+
 
 /* Review Ends */
 
