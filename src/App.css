@@ -1056,7 +1056,7 @@ img {
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-color: black;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1076,7 +1076,7 @@ img {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
-  background-color: black;
+  
 }
 
 /* Por padrão, mostra só o desktop */
