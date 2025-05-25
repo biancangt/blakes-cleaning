@@ -1,9 +1,8 @@
 import { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/pagination";
-import "swiper/css/navigation";
-import { Pagination, Navigation } from "swiper/modules";
+import "swiper/css/navigation"; // apenas o css de navigation
+import { Navigation } from "swiper/modules"; // apenas Navigation
 import data from "../../data/index.json";
 
 // Hook para detectar largura da tela
@@ -31,8 +30,7 @@ export default function OurServices() {
 
       {isMobile ? (
         <Swiper
-          modules={[Pagination, Navigation]}
-          pagination={{ clickable: true }}
+          modules={[Navigation]} // só Navigation
           navigation={true} // habilita as setas
           spaceBetween={16}
           slidesPerView={1}

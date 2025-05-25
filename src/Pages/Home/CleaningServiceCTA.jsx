@@ -134,7 +134,7 @@ export default function CleaningServiceCTA() {
           Book your cleaning service now!
         </p>
         <div className="cleaning-cta__buttons">
-          <a href="tel:+12544888917" className="btn">
+          <a href="sms:+12544888917" className="btn">
             Book Now
           </a>
         </div>

@@ -8,7 +8,7 @@ export default function Faq() {
     },
     {
       question: "Are your cleaning products safe?",
-      answer: "Yes! We use eco-friendly and safe cleaning products to ensure a clean and healthy environment for you and your family.",
+      answer: "Yes! We use safe cleaning products to ensure a clean and healthy environment for you and your family.",
     },
     {
       question: "How can I book a service?",

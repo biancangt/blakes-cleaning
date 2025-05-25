@@ -8,7 +8,7 @@ export default function ContactUs() {
     e.preventDefault();
     const form = e.target;
     const data = new FormData(form);
-    const response = await fetch("https://formspree.io/f/xpwdgwqr", {
+    const response = await fetch("https://formspree.io/f/mvgajqjb", {
       method: "POST",
       body: data,
       headers: { Accept: "application/json" },
@@ -44,7 +44,7 @@ export default function ContactUs() {
             <FaComment className="contact-icon" /> Text Us
           </a>
           <a href="mailto:magdamiralha@gmail.com" className="contact-button">
-            <FaEnvelope className="contact-icon" /> Mail Us
+            <FaEnvelope className="contact-icon" /> Email Us
           </a>
         </div>
       </div>
